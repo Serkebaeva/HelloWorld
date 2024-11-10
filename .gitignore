@@ -1,5 +1,10 @@
 HELP.md
+.gitattributes
+mvnw
+mvnw.cmd
+pom.xml
 target/
+.mvn
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
